@@ -10,7 +10,7 @@ First way:
 
 Second way:
 1. Open cmd
-2. Type: cd *Directory of the target folder*
+2. Type: cd *Directory of the "Target" folder*
 3. Type: java -jar testing-1.0-SNAPSHOT.jar 127.0.0.1 1111
 
    
