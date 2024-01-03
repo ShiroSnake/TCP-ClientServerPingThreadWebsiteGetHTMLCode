@@ -1,6 +1,6 @@
 There is no way to change the websites link outside the project.
+There are 2 ways to open the program.
 
-There are 2 ways to open the program:
 First way:
 1. Open Target folder 
 2. Open .bat file as an editor
