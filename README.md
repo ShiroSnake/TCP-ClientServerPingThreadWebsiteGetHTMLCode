@@ -5,7 +5,7 @@ First way:
 1. Open Target folder 
 2. Open .bat file as an editor
 3. Change its location to the folder you have extracted project
-4. Click on .bat file (Server is recommended to open first)
+4. Click on .bat file (I would recommend to open Server file first)
 5. It will start the program as a localhost with port 1111
 
 Second way:
